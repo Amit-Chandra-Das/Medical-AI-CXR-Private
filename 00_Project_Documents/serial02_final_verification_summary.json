@@ -1,0 +1,14 @@
+{
+  "dataset": "CheXpert-v1.0-small",
+  "total_images": 223648,
+  "initial_scan_valid": 223644,
+  "initial_scan_unreadable": 4,
+  "initial_scan_missing": 0,
+  "failed_images_retested": 4,
+  "successful_retries": 4,
+  "unresolved_failures": 0,
+  "retry_method": "PIL Image.open and Image.load",
+  "original_error_type": "Google Drive Errno 5 input/output error",
+  "verification_status": "COMPLETED",
+  "completed_at_utc": "2026-11-04T11:39:42.541221+00:00"
+}

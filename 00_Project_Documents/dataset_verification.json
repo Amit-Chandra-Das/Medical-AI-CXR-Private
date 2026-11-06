@@ -1,0 +1,14 @@
+{
+    "dataset": "CheXpert-v1.0-small",
+    "training_images": 223414,
+    "validation_images": 234,
+    "training_patients": 64540,
+    "validation_patients": 200,
+    "patient_overlap": 0,
+    "training_duplicate_paths": 0,
+    "validation_duplicate_paths": 0,
+    "shared_image_paths": 0,
+    "total_uncertain_labels": 139958,
+    "sampled_training_images_verified": 10,
+    "sampled_validation_images_verified": 10
+}

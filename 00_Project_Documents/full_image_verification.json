@@ -1,0 +1,28 @@
+{
+  "checked": 223648,
+  "valid": 223644,
+  "missing": 0,
+  "unreadable": 4,
+  "errors": [
+    {
+      "index": 181000,
+      "path": "CheXpert-v1.0-small/train/patient42609/study3/view1_frontal.jpg",
+      "error": "[Errno 5] Input/output error: '/content/drive/MyDrive/CSE499-Medical-AI/01_Dataset/CheXpert/CheXpert-v1.0-small/train/patient42609/study3/view1_frontal.jpg'"
+    },
+    {
+      "index": 181001,
+      "path": "CheXpert-v1.0-small/train/patient42610/study2/view1_frontal.jpg",
+      "error": "[Errno 5] Input/output error: '/content/drive/MyDrive/CSE499-Medical-AI/01_Dataset/CheXpert/CheXpert-v1.0-small/train/patient42610/study2/view1_frontal.jpg'"
+    },
+    {
+      "index": 213500,
+      "path": "CheXpert-v1.0-small/train/patient57288/study1/view1_frontal.jpg",
+      "error": "[Errno 5] Input/output error: '/content/drive/MyDrive/CSE499-Medical-AI/01_Dataset/CheXpert/CheXpert-v1.0-small/train/patient57288/study1/view1_frontal.jpg'"
+    },
+    {
+      "index": 213501,
+      "path": "CheXpert-v1.0-small/train/patient57289/study1/view1_frontal.jpg",
+      "error": "[Errno 5] Input/output error: '/content/drive/MyDrive/CSE499-Medical-AI/01_Dataset/CheXpert/CheXpert-v1.0-small/train/patient57289/study1/view1_frontal.jpg'"
+    }
+  ]
+}

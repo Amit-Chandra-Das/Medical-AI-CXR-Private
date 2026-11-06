@@ -1,0 +1,39 @@
+{
+    "project": "Medical-AI-CXR",
+    "notebook": "02_dataset_verification.ipynb",
+    "created_at_utc": "2026-11-02T12:52:39.958642+00:00",
+    "dataset": {
+        "training_records": 223414,
+        "validation_records": 234,
+        "columns": 19,
+        "medical_labels": 14
+    },
+    "training_labels": {
+        "positive": 515589,
+        "negative": 194275,
+        "uncertain": 139958,
+        "missing": 2277974
+    },
+    "validation_labels": {
+        "positive": 691,
+        "negative": 2585,
+        "uncertain": 0,
+        "missing": 0
+    },
+    "sample_image_analysis": {
+        "images_analyzed": 100,
+        "average_width": 372.25,
+        "average_height": 326.22,
+        "average_brightness": 127.81,
+        "average_pixel_std": 74.5
+    },
+    "image_path_verification": {
+        "training_paths_sampled": 1000,
+        "training_paths_missing": 0,
+        "validation_paths_checked": 234,
+        "validation_paths_missing": 0,
+        "full_training_scan_completed": false,
+        "sample_verification_passed": true,
+        "execution_seconds": 269.54
+    }
+}
