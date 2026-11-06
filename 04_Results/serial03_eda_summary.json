@@ -1,0 +1,24 @@
+{
+    "serial": "03",
+    "task": "Exploratory Data Analysis",
+    "training_images": 223414,
+    "validation_images": 234,
+    "total_observations": 14,
+    "total_missing_label_entries": 2277974,
+    "total_uncertain_label_entries": 139958,
+    "highest_positive_observation": "Support Devices",
+    "highest_positive_percentage": 51.92,
+    "lowest_positive_observation": "Pleural Other",
+    "lowest_positive_percentage": 1.58,
+    "highest_missing_observation": "Pleural Other",
+    "highest_missing_percentage": 97.09,
+    "highest_uncertain_observation": "Atelectasis",
+    "highest_uncertain_percentage": 15.1,
+    "findings": [
+        "Positive-label frequencies differ substantially across observations.",
+        "Many observation labels are missing.",
+        "Some observations have substantial uncertain-label counts.",
+        "Missing labels must not automatically be treated as negative.",
+        "Label-handling decisions will be addressed in SERIAL 06."
+    ]
+}
